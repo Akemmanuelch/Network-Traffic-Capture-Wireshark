@@ -47,6 +47,6 @@ Windows 10, Oracle VirtualBox, FileZilla Server, Kali Linux, Wireshark</p>
   <li><img src="screenshots/ipconfig.jpeg" width="600"></li>
   <li><img src="screenshots/wireshark_capture_start.jpeg" width="600"></li>
   <li><img src="screenshots/ftp_login_kali.jpeg" width="600"></li>
-  <li><img src="screenshots/wireshark_ftp_cleartext.jpeg" width="600"></li>
+  <li><img src="screenshots/wireshark_ftp_packet_capture.jpeg" width="600"></li>
   <li><img src="screenshots/filezilla_tls_enabled.jpeg" width="600"></li>
 </ol>
